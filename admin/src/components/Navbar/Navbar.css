@@ -1,0 +1,14 @@
+.navbar{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 8PX 4%;
+
+}
+.navbar .logo{
+    width: max(10% , 80%);
+}
+
+.navbar .protfile{
+    width: 40px ;
+}
